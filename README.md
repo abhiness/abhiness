@@ -3,7 +3,7 @@
 
   
 <b>My Skills:</b>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=tailwind,sass&theme=dark )](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,figma&theme=dark)](https://skillicons.dev)
 - 🧠 Current courses: freeCodeCamp, and CS50.
 - 💞️ I’m looking to collaborate on learning projects. 
 - 📫 How to reach me: Best way is my IG @abhiness

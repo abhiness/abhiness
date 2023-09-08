@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @abhiness
 - 🎓 Meta Certified Front-end Developer X 🎓 Google Certified UX Designer
-- 🧠 Current courses: Meta Front-End Developement Course (Coursera), freeCodeCamp, and CS50.
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,figma )](https://skillicons.dev)
+- 🧠 Current courses: freeCodeCamp, and CS50.
 - 💞️ I’m looking to collaborate on learning projects. 
 - 📫 How to reach me: Best way is my IG @abhiness
 

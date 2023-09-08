@@ -4,7 +4,7 @@
 <hr>
 <b>My Skills:</b> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,br,js,react,sass,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,figma)](https://skillicons.dev)
 <hr>
 
 - 🧠 Current courses: freeCodeCamp, and CS50.

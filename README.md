@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhiness
-- 🎓 Google Certified UX Designer
+- 🎓 Meta Certified Front-end Developer X 🎓 Google Certified UX Designer
 - 🧠 Current courses: Meta Front-End Developement Course (Coursera), freeCodeCamp, and CS50.
 - 💞️ I’m looking to collaborate on learning projects. 
 - 📫 How to reach me: Best way is my IG @abhiness

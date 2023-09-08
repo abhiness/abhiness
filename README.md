@@ -3,9 +3,9 @@
 
 <hr>
 <b>My Skills:</b> 
-<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,figma)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,br,js,react,sass,tailwind,figma)](https://skillicons.dev)
+<hr>
 
 - 🧠 Current courses: freeCodeCamp, and CS50.
 - 💞️ I’m looking to collaborate on learning projects. 

@@ -1,11 +1,10 @@
-<b font-size=16>👋 Hi, I’m @abhiness </b>
+<b font-size=42>👋 Hi, I’m @abhiness </b>
 - 🎓 Meta Certified Front-end Developer X 🎓 Google Certified UX Designer
 
 <hr>
 <b>My Skills:</b> 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,figma&theme=dark)](https://skillicons.dev)
-<hr>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,figma&theme=dark)](https://skillicons.dev)
 - 🧠 Current courses: freeCodeCamp, and CS50.
 - 💞️ I’m looking to collaborate on learning projects. 
 - 📫 How to reach me: Best way is my IG @abhiness

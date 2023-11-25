@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🧠 Current courses: freeCodeCamp, and CS50.
+- 🧠 Current courses: freeCodeCamp
 - 💞️ I’m looking to collaborate on learning projects. 
 - 📫 How to reach me: Best way is my IG @abhiness
 

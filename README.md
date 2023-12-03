@@ -1,5 +1,5 @@
 <b font-size=42>👋 Hi, I’m @abhiness </b>
-- 🎓 Meta Certified Front-end Developer && Google Certified UX Designer 
+- 🎓 Meta Certified Front-end Developer && Google Certified UX Designer.
 
 <hr>
 <b>My Skills:</b> 

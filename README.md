@@ -1,6 +1,6 @@
 <b font-size=42>👋 Hi, I’m @abhiness </b>
 - 🎓 Meta Certified Front-end Developer && Google Certified UX Designer
-
+Cuurently Avionics UI engineering Specialist in U.S. Air Force
 <hr>
 <b>My Skills:</b> 
 
